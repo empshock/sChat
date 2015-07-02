@@ -1,0 +1,6 @@
+name: sChat
+main: me.empshock.schat.Main
+version: 1.0.0
+commands:
+  schat:
+    description: Allows you to talk in StaffChat!
